@@ -13,4 +13,4 @@ For Running the Project
 ```bash
 nodemon
 ```
-
+Lastly go to 127.0.0.1:3000
