@@ -1,0 +1,68 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card-registration {
+    margin-top: 120px;
+    border: none;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-registration .card-title {
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+.input-group-prepend .input-group-text {
+    background-color: transparent;
+    border: none;
+}
+
+.input-group-prepend .input-group-text i {
+    font-size: 18px;
+    color: #000000;
+}
+
+.sign-in-link {
+    text-align: center;
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.password-toggle-icon {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    right: 12px;
+    transform: translateY(-50%);
+    color: #aaa;
+}
+
+.card-login {
+    margin-top: 120px;
+    border: none;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-login .card-title {
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+.sign-up-link {
+    text-align: center;
+}
