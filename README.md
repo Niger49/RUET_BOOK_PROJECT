@@ -5,7 +5,7 @@ First Clone The Project
 git clone https://github.com/Niger49/RUET_BOOK_PROJECT
 ```
 For Node Packages(Nodejs has to be installed)
-go the project folder and
+go the project folder &
 ```bash
 npm install
 ```
