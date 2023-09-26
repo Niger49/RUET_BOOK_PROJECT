@@ -14,3 +14,9 @@ For Running the Project
 nodemon
 ```
 Lastly go to 127.0.0.1:3000
+#for editing
+```bash
+git add .
+git commit -m "Commit message"
+git push
+```
